@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="2FA" xml:space="preserve">
-    <value>Two-factor authentication</value>
+    <value>To-faktor autentisering</value>
   </data>
   <data name="ChangePassword" xml:space="preserve">
-    <value>Change password</value>
+    <value>Endre passord</value>
   </data>
   <data name="Discovery" xml:space="preserve">
     <value>Discovery Document</value>
@@ -130,15 +130,15 @@
     <value>Persisted Grants</value>
   </data>
   <data name="Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Logg inn</value>
   </data>
   <data name="ManagePersonalData" xml:space="preserve">
-    <value>My personal data</value>
+    <value>Min personlige data</value>
   </data>
   <data name="ManageProfile" xml:space="preserve">
-    <value>My profile</value>
+    <value>My profil</value>
   </data>
   <data name="SubTitle" xml:space="preserve">
-    <value>Welcome to {0}</value>
+    <value>Velkommen til {0}</value>
   </data>
 </root>

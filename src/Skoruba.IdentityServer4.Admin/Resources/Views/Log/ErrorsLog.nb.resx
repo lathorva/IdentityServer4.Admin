@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DeleteButton" xml:space="preserve">
-    <value>Delete logs older than</value>
+    <value>Slett logger eldre enn</value>
   </data>
   <data name="DeleteDialogMessage" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Er du sikker?</value>
   </data>
   <data name="DeleteDialogNo" xml:space="preserve">
-    <value>No - close</value>
+    <value>Nei - lukk</value>
   </data>
   <data name="DeleteDialogTitle" xml:space="preserve">
-    <value>Warning</value>
+    <value>Advarsel</value>
   </data>
   <data name="DeleteDialogYes" xml:space="preserve">
-    <value>Yes - delete</value>
+    <value>Ja - slett</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Logs</value>
+    <value>Logger</value>
   </data>
   <data name="TableLevel" xml:space="preserve">
     <value>Level</value>
@@ -142,9 +142,9 @@
     <value>Logged</value>
   </data>
   <data name="TableMessage" xml:space="preserve">
-    <value>Message</value>
+    <value>Melding</value>
   </data>
   <data name="TableShowDetail" xml:space="preserve">
-    <value>Show Detail</value>
+    <value>Vis detaljer</value>
   </data>
 </root>

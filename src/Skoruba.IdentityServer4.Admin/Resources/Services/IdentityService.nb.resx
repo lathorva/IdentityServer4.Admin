@@ -121,60 +121,60 @@
     <value>Error</value>
   </data>
   <data name="RoleClaimDoesNotExist" xml:space="preserve">
-    <value>Role claim with id {0} doesn't exist</value>
+    <value>Role claim med id {0} finnes ikke</value>
   </data>
   <data name="RoleClaimsCreateFailed" xml:space="preserve">
-    <value>Role Claims creating failed</value>
+    <value>Role Claims opprettelse feilet</value>
   </data>
   <data name="RoleClaimsDeleteFailed" xml:space="preserve">
-    <value>Role Claims deleting failed</value>
+    <value>Role Claims sletting feilet</value>
   </data>
   <data name="RoleCreateFailed" xml:space="preserve">
-    <value>Role creating failed</value>
+    <value>Rolle opprettelse feilet</value>
   </data>
   <data name="RoleDeleteFailed" xml:space="preserve">
-    <value>Role deleting failed</value>
+    <value>Rolle sletting feilet</value>
   </data>
   <data name="RoleDoesNotExist" xml:space="preserve">
-    <value>Role with id {0} doesn't exist</value>
+    <value>Rolle med id {0} finnes ikke</value>
   </data>
   <data name="RoleUpdateFailed" xml:space="preserve">
-    <value>Role updating failed</value>
+    <value>Role oppdatering feilet</value>
   </data>
   <data name="UserChangePasswordFailed" xml:space="preserve">
-    <value>User Change Password failed</value>
+    <value>Endre passord til bruker feilet</value>
   </data>
   <data name="UserClaimDoesNotExist" xml:space="preserve">
-    <value>User claim with id {0} doesn't exist</value>
+    <value>User claim med id {0} finnes ikke</value>
   </data>
   <data name="UserClaimsCreateFailed" xml:space="preserve">
-    <value>User Claims creating failed</value>
+    <value>User Claims opprettelse feilet</value>
   </data>
   <data name="UserClaimsDeleteFailed" xml:space="preserve">
-    <value>User Claims deleting failed</value>
+    <value>User Claims sletting feilet</value>
   </data>
   <data name="UserCreateFailed" xml:space="preserve">
-    <value>User creating failed</value>
+    <value>Bruker opprettelse feiltet</value>
   </data>
   <data name="UserDeleteFailed" xml:space="preserve">
-    <value>User deleting failed</value>
+    <value>Bruker sletting feilet</value>
   </data>
   <data name="UserDoesNotExist" xml:space="preserve">
-    <value>User with id {0} doesn't exist</value>
+    <value>Bruker med id {0} finnes ikke</value>
   </data>
   <data name="UserProviderDeleteFailed" xml:space="preserve">
-    <value>User Provider deleting failed</value>
+    <value>Bruker-provider sletting feilet</value>
   </data>
   <data name="UserProviderDoesNotExist" xml:space="preserve">
-    <value>User provider with id {0} doesn't exist</value>
+    <value>Bruker-provider med id {0} finnes ikke</value>
   </data>
   <data name="UserRoleCreateFailed" xml:space="preserve">
-    <value>User Role creating failed</value>
+    <value>Brukerrolle opprettelse feilet</value>
   </data>
   <data name="UserRoleDeleteFailed" xml:space="preserve">
-    <value>User Role deleting failed</value>
+    <value>Brukerrolle sletting feilet</value>
   </data>
   <data name="UserUpdateFailed" xml:space="preserve">
-    <value>User updating failed</value>
+    <value>Bruker oppdatering feilet</value>
   </data>
 </root>
