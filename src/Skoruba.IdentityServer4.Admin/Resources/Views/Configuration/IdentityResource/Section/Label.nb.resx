@@ -181,6 +181,6 @@
     <value>List of associated user claim types that should be included in the identity token.</value>
   </data>
   <data name="UserClaims_Label" xml:space="preserve">
-    <value>User Claims</value>
+    <value>Bruker-Claims</value>
   </data>
 </root>

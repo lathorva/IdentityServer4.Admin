@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ConfirmEmailBody" xml:space="preserve">
-    <value>Please confirm your account by &lt;a href='{0}'&gt;clicking here&lt;/a&gt;.</value>
+    <value>Vennligst bekreft din konto ved å &lt;a href='{0}'&gt;klikke her&lt;/a&gt;.</value>
   </data>
   <data name="ConfirmEmailTitle" xml:space="preserve">
-    <value>Confirm your email</value>
+    <value>Bekreft din e-post</value>
   </data>
   <data name="EmailNotFound" xml:space="preserve">
-    <value>The user does not exist or is not confirmed</value>
+    <value>Brukeren eksistrerer ikke eller er ikke bekreftet</value>
   </data>
   <data name="ErrorExternalProvider" xml:space="preserve">
     <value>Error from external provider: {0}</value>
   </data>
   <data name="InvalidAuthenticatorCode" xml:space="preserve">
-    <value>Invalid authenticator code.</value>
+    <value>Ugyldig autentiseringskode.</value>
   </data>
   <data name="InvalidRecoveryCode" xml:space="preserve">
-    <value>Invalid recovery code entered.</value>
+    <value>Ugyldig gjenopprettingskode tastet inn.</value>
   </data>
   <data name="ResetPasswordBody" xml:space="preserve">
-    <value>Please reset your password by &lt;a href='{0}'&gt;clicking here&lt;/a&gt;.</value>
+    <value>Vennligst tilbakestill ditt passord ved å &lt;a href='{0}'&gt;klikke her&lt;/a&gt;.</value>
   </data>
   <data name="ResetPasswordTitle" xml:space="preserve">
-    <value>Reset Password</value>
+    <value>Tilbakestill passord</value>
   </data>
   <data name="Unable2FA" xml:space="preserve">
-    <value>Unable to load two-factor authentication user.</value>
+    <value>Kan ikke laste inn to-faktor autentiseringsbruker</value>
   </data>
 </root>

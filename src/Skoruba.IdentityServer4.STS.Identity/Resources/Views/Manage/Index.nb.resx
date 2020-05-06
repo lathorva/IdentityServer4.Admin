@@ -118,45 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Country" xml:space="preserve">
-    <value>Country</value>
+    <value>Land</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>Email</value>
+    <value>E-post</value>
   </data>
   <data name="Locality" xml:space="preserve">
-    <value>City</value>
+    <value>Sted</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Full name</value>
+    <value>Fult navn</value>
   </data>
   <data name="PhoneNumber" xml:space="preserve">
-    <value>Phone Number</value>
+    <value>Telefonnummer</value>
   </data>
   <data name="PostalCode" xml:space="preserve">
-    <value>Postal code</value>
+    <value>Postnummer</value>
   </data>
   <data name="Profile" xml:space="preserve">
-    <value>Profile URL</value>
+    <value>Profil URL</value>
   </data>
   <data name="Region" xml:space="preserve">
     <value>Region</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Lagre</value>
   </data>
   <data name="SendVerificationEmail" xml:space="preserve">
-    <value>Send verification email</value>
+    <value>Send verifiseringsepost</value>
   </data>
   <data name="StreetAddress" xml:space="preserve">
-    <value>Street address</value>
+    <value>Gateadresse</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Profile</value>
+    <value>Profil</value>
   </data>
   <data name="UserName" xml:space="preserve">
-    <value>UserName</value>
+    <value>Brukernavn</value>
   </data>
   <data name="Website" xml:space="preserve">
-    <value>Website URL</value>
+    <value>Nettside URL</value>
   </data>
 </root>

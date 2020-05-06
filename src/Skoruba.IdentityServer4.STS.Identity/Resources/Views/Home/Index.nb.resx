@@ -136,7 +136,7 @@
     <value>Min personlige data</value>
   </data>
   <data name="ManageProfile" xml:space="preserve">
-    <value>My profil</value>
+    <value>Administrer profil</value>
   </data>
   <data name="SubTitle" xml:space="preserve">
     <value>Velkommen til {0}</value>
