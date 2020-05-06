@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonDeleteGrant" xml:space="preserve">
-    <value>Delete Persisted Grant</value>
+    <value>Slett Persisted Grant</value>
   </data>
   <data name="NavigationPersistedGrants" xml:space="preserve">
     <value>Persisted Grants</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Delete Persisted Grant</value>
+    <value>Slett Persisted Grant</value>
   </data>
   <data name="TableClient" xml:space="preserve">
     <value>Client</value>
@@ -133,7 +133,7 @@
     <value>Data</value>
   </data>
   <data name="TableExpiration" xml:space="preserve">
-    <value>Expiration</value>
+    <value>Utløper</value>
   </data>
   <data name="TableSubjectId" xml:space="preserve">
     <value>Subject Id</value>

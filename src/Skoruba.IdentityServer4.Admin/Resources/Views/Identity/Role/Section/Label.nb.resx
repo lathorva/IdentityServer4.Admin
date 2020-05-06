@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="RoleName_Info" xml:space="preserve">
-    <value>Name of the role</value>
+    <value>Navn på rolle</value>
   </data>
   <data name="RoleName_Label" xml:space="preserve">
-    <value>Role Name</value>
+    <value>RollenavnName</value>
   </data>
   <data name="Type_Info" xml:space="preserve">
     <value />
   </data>
   <data name="Type_Label" xml:space="preserve">
-    <value>Claim Type</value>
+    <value>Claim - Type</value>
   </data>
   <data name="Value_Info" xml:space="preserve">
     <value />
   </data>
   <data name="Value_Label" xml:space="preserve">
-    <value>Claim Value</value>
+    <value>Claim - Verdi</value>
   </data>
 </root>

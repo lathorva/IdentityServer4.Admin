@@ -118,33 +118,33 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonManageClientProperties" xml:space="preserve">
-    <value>Manage Client Properties</value>
+    <value>Administerer Client egenskaper</value>
   </data>
   <data name="ButtonManageClientSecrets" xml:space="preserve">
-    <value>Manage Client Secrets</value>
+    <value>Administerer Client-Secrets</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
     <value>Basics</value>
   </data>
   <data name="PickerItemAlreadySelectedTitle" xml:space="preserve">
-    <value>item already selected</value>
+    <value>element allerede valgt</value>
   </data>
   <data name="PickerNoItemSelectedTitle" xml:space="preserve">
-    <value>No item/s selected</value>
+    <value>Ingen elementer valgt</value>
   </data>
   <data name="PickerSearchItemPlaceholder" xml:space="preserve">
-    <value>Enter 2 and more characters</value>
+    <value>Tast inn 2 eller flere tegn</value>
   </data>
   <data name="PickerSearchResultTitle" xml:space="preserve">
-    <value>Search result: (click on the item to select)</value>
+    <value>Søkeresultat: (klikk på elementet for å velge)</value>
   </data>
   <data name="PickerSelectedItemsTitle" xml:space="preserve">
-    <value>Selected item/s: </value>
+    <value>Valgte elementer: </value>
   </data>
   <data name="PickerShowAllItemsTitle" xml:space="preserve">
-    <value>more</value>
+    <value>mer</value>
   </data>
   <data name="PickerSuggestedItemsTitle" xml:space="preserve">
-    <value>Suggested items: </value>
+    <value>Foreslåtte elementer: </value>
   </data>
 </root>

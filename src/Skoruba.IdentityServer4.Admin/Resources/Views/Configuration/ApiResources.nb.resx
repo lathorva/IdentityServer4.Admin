@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonAddResource" xml:space="preserve">
-    <value>Add Api Resource</value>
+    <value>Legg til API-Resource</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Api Resources</value>
+    <value>API-Resources</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
-    <value>Api Resources</value>
+    <value>API-Resources</value>
   </data>
   <data name="TableButtonEdit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Rediger</value>
   </data>
   <data name="TableName" xml:space="preserve">
-    <value>Name</value>
+    <value>Navn</value>
   </data>
 </root>

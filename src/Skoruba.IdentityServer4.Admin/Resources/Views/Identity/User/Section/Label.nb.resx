@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="RoleName_Info" xml:space="preserve">
-    <value>Name of the role</value>
+    <value>Navn på rolle</value>
   </data>
   <data name="RoleName_Label" xml:space="preserve">
-    <value>Role Name</value>
+    <value>Rollenavn</value>
   </data>
   <data name="RolesList_Info" xml:space="preserve">
-    <value>Role</value>
+    <value>Rolle</value>
   </data>
   <data name="RolesList_Label" xml:space="preserve">
-    <value>Role</value>
+    <value>Rolle</value>
   </data>
   <data name="Type_Info" xml:space="preserve">
     <value />
@@ -136,99 +136,99 @@
     <value>Claim Type</value>
   </data>
   <data name="UserAccessFailedCount_Info" xml:space="preserve">
-    <value>User Access Failed Count</value>
+    <value>Brukertilganger, feilede påloggninger</value>
   </data>
   <data name="UserAccessFailedCount_Label" xml:space="preserve">
-    <value>User Access Failed Count</value>
+    <value>Brukertilganger, feilede påloggninger</value>
   </data>
   <data name="UserChangePasswordConfirmPassword_Info" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>Bekreft passord</value>
   </data>
   <data name="UserChangePasswordConfirmPassword_Label" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>Bekreft passord</value>
   </data>
   <data name="UserChangePasswordPassword_Info" xml:space="preserve">
-    <value>Password</value>
+    <value>Passord</value>
   </data>
   <data name="UserChangePasswordPassword_Label" xml:space="preserve">
-    <value>Password</value>
+    <value>Passord</value>
   </data>
   <data name="UserChangePasswordUserName_Info" xml:space="preserve">
-    <value>User Name</value>
+    <value>Brukernavn</value>
   </data>
   <data name="UserChangePasswordUserName_Label" xml:space="preserve">
-    <value>User Name</value>
+    <value>Brukernavn</value>
   </data>
   <data name="UserEmailConfirmed_Info" xml:space="preserve">
-    <value>User Email Confirmed</value>
+    <value>Bruker-epost bekreftet</value>
   </data>
   <data name="UserEmailConfirmed_Label" xml:space="preserve">
-    <value>User Email Confirmed</value>
+    <value>Bruker-epost bekreftet</value>
   </data>
   <data name="UserEmail_Info" xml:space="preserve">
-    <value>Email</value>
+    <value>E-post</value>
   </data>
   <data name="UserEmail_Label" xml:space="preserve">
-    <value>Email</value>
+    <value>E-post</value>
   </data>
   <data name="UserLockoutEnabled_Info" xml:space="preserve">
-    <value>User Lockout Enabled</value>
+    <value>Brukersperre aktivert</value>
   </data>
   <data name="UserLockoutEnabled_Label" xml:space="preserve">
-    <value>User Lockout Enabled</value>
+    <value>Brukersperre aktivert</value>
   </data>
   <data name="UserLockoutEnd_Info" xml:space="preserve">
-    <value>User Lockout End</value>
+    <value>Brukersperre - Sluttdato</value>
   </data>
   <data name="UserLockoutEnd_Label" xml:space="preserve">
-    <value>User Lockout End</value>
+    <value>Brukersperre - Sluttdato</value>
   </data>
   <data name="UserPhoneNumberConfirmed_Info" xml:space="preserve">
-    <value>User Phone Number Confirmed</value>
+    <value>Telefonnummer til bruker bekreftet</value>
   </data>
   <data name="UserPhoneNumberConfirmed_Label" xml:space="preserve">
-    <value>User Phone Number Confirmed</value>
+    <value>Telefonnummer til bruker bekreftet</value>
   </data>
   <data name="UserPhoneNumber_Info" xml:space="preserve">
-    <value>User Phone Number</value>
+    <value>Telefonnummer til bruker</value>
   </data>
   <data name="UserPhoneNumber_Label" xml:space="preserve">
-    <value>User Phone Number</value>
+    <value>Telefonnummer til bruker</value>
   </data>
   <data name="UserProviderLoginProvider_Info" xml:space="preserve">
-    <value>Login Provider</value>
+    <value>3.part login-tilbyder</value>
   </data>
   <data name="UserProviderLoginProvider_Label" xml:space="preserve">
-    <value>Login Provider</value>
+    <value>3.part login-tilbyder</value>
   </data>
   <data name="UserProviderProviderDisplayName_Info" xml:space="preserve">
-    <value>Display Name</value>
+    <value>Visningsnavn</value>
   </data>
   <data name="UserProviderProviderDisplayName_Label" xml:space="preserve">
-    <value>Display Name</value>
+    <value>Visningsnavn</value>
   </data>
   <data name="UserProviderProviderKey_Info" xml:space="preserve">
-    <value>Provider Key</value>
+    <value>3.part login-nøkkel</value>
   </data>
   <data name="UserProviderProviderKey_Label" xml:space="preserve">
-    <value>Provider Key</value>
+    <value>3.part login-nøkkel</value>
   </data>
   <data name="UserTwoFactorEnabled_Info" xml:space="preserve">
-    <value>User Two Factor Enabled</value>
+    <value>To-faktor aktivert</value>
   </data>
   <data name="UserTwoFactorEnabled_Label" xml:space="preserve">
-    <value>User Two Factor Enabled</value>
+    <value>To-faktor aktivert</value>
   </data>
   <data name="UserUserName_Info" xml:space="preserve">
-    <value>User Name</value>
+    <value>Brukernavn</value>
   </data>
   <data name="UserUserName_Label" xml:space="preserve">
-    <value>User Name</value>
+    <value>Brukernavn</value>
   </data>
   <data name="Value_Info" xml:space="preserve">
     <value />
   </data>
   <data name="Value_Label" xml:space="preserve">
-    <value>Claim Value</value>
+    <value>Claim-verdi</value>
   </data>
 </root>

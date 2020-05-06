@@ -121,30 +121,30 @@
     <value>Audit Log</value>
   </data>
   <data name="ButtonChangePassword" xml:space="preserve">
-    <value>Change Password</value>
+    <value>Endre passord</value>
   </data>
   <data name="ButtonDeleteUser" xml:space="preserve">
-    <value>Delete User</value>
+    <value>Slett bruker</value>
   </data>
   <data name="ButtonManageUserClaims" xml:space="preserve">
-    <value>Manage User Claims</value>
+    <value>Administrer bruker-claims</value>
   </data>
   <data name="ButtonManageUserExternalProviders" xml:space="preserve">
-    <value>Manage User External Providers</value>
+    <value>Administrer eksterne logg-inn-tilbydere</value>
   </data>
   <data name="ButtonManageUserRoles" xml:space="preserve">
-    <value>Manage User Roles</value>
+    <value>Administrer brukerroller</value>
   </data>
   <data name="ButtonSaveUser" xml:space="preserve">
-    <value>Save User</value>
+    <value>Lagre bruker</value>
   </data>
   <data name="NavigationUsers" xml:space="preserve">
-    <value>Users</value>
+    <value>Brukere</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>User</value>
+    <value>Bruker</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
-    <value>User</value>
+    <value>Bruker</value>
   </data>
 </root>

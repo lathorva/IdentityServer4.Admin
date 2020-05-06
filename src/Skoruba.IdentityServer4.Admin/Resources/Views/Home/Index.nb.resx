@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonApiResources" xml:space="preserve">
-    <value>Api Resources</value>
+    <value>Api-ressurser</value>
   </data>
   <data name="ButtonClients" xml:space="preserve">
     <value>Clients</value>
   </data>
   <data name="ButtonIdentityClients" xml:space="preserve">
-    <value>Identity Resources</value>
+    <value>Identity-ressurser</value>
   </data>
   <data name="ButtonManage" xml:space="preserve">
     <value>Administrer</value>

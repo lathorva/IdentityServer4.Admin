@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Description_Info" xml:space="preserve">
-    <value>This value will be used e.g. on the consent screen.</value>
+    <value>Denne verdien vil for eksempel bli brukt på samtykke-siden.</value>
   </data>
   <data name="Description_Label" xml:space="preserve">
-    <value>Description</value>
+    <value>Beskrivelse</value>
   </data>
   <data name="DisplayName_Info" xml:space="preserve">
-    <value>This value will be used e.g. on the consent screen.</value>
+    <value>Denne verdien vil for eksempel bli brukt på samtykke-siden.</value>
   </data>
   <data name="DisplayName_Label" xml:space="preserve">
-    <value>Display Name</value>
+    <value>Visningsnavn</value>
   </data>
   <data name="Emphasize_Info" xml:space="preserve">
     <value>Specifies whether the consent screen will emphasize this scope (if the consent screen wants to implement such a feature). Use this setting for sensitive or important scopes. Defaults to false.</value>
@@ -139,37 +139,37 @@
     <value>Indicates if this resource is enabled and can be requested. Defaults to true.</value>
   </data>
   <data name="Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Aktivert</value>
   </data>
   <data name="Name_Info" xml:space="preserve">
     <value>The unique name of the identity resource. This is the value a client will use for the scope parameter in the authorize request.</value>
   </data>
   <data name="Name_Label" xml:space="preserve">
-    <value>Name</value>
+    <value>Navn</value>
   </data>
   <data name="Properties_Info" xml:space="preserve">
     <value>Dictionary to hold any custom identity resource-specific values as needed.</value>
   </data>
   <data name="Properties_Label" xml:space="preserve">
-    <value>Properties</value>
+    <value>Egenskaper</value>
   </data>
   <data name="PropertyKey_Info" xml:space="preserve">
-    <value>Key</value>
+    <value>Key/Nøkkel</value>
   </data>
   <data name="PropertyKey_Label" xml:space="preserve">
-    <value>Key</value>
+    <value>Key/Nøkkel</value>
   </data>
   <data name="PropertyValue_Info" xml:space="preserve">
-    <value>Value</value>
+    <value>Verdi</value>
   </data>
   <data name="PropertyValue_Label" xml:space="preserve">
-    <value>Value</value>
+    <value>Verdi</value>
   </data>
   <data name="Required_Info" xml:space="preserve">
     <value>Specifies whether the user can de-select the scope on the consent screen (if the consent screen wants to implement such a feature). Defaults to false.</value>
   </data>
   <data name="Required_Label" xml:space="preserve">
-    <value>Required</value>
+    <value>Påbudt</value>
   </data>
   <data name="ShowInDiscoveryDocument_Info" xml:space="preserve">
     <value>Specifies whether this scope is shown in the discovery document. Defaults to true.</value>

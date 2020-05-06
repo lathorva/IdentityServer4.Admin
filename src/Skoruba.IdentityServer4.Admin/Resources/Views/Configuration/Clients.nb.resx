@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonAddNewClient" xml:space="preserve">
-    <value>Add Client</value>
+    <value>Legg til Client</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>Clients</value>
   </data>
   <data name="TableButtonEdit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Rediger</value>
   </data>
   <data name="TableClientId" xml:space="preserve">
     <value>Client Id</value>
   </data>
   <data name="TableClientName" xml:space="preserve">
-    <value>Client Name</value>
+    <value>Client Navn</value>
   </data>
 </root>

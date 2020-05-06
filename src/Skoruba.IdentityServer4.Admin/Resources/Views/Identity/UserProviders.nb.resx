@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="NavigationUsers" xml:space="preserve">
-    <value>Users</value>
+    <value>Brukere</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>User Providers</value>
+    <value>Kontotilbydere</value>
   </data>
   <data name="TableButtonRemove" xml:space="preserve">
-    <value>Delete</value>
+    <value>Slett</value>
   </data>
   <data name="TableLoginProvider" xml:space="preserve">
-    <value>Login Provider</value>
+    <value>Kontotilbyder</value>
   </data>
   <data name="TableProviderDisplayName" xml:space="preserve">
-    <value>Provider Display Name</value>
+    <value>Kontotilbyder - Visningsnavn</value>
   </data>
   <data name="TableProviderKey" xml:space="preserve">
-    <value>Provider Key</value>
+    <value>Kontotilbyder - Nøkkel</value>
   </data>
 </root>

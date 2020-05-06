@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonAddProperty" xml:space="preserve">
-    <value>Add Client Property</value>
+    <value>Legg til Client-egenskap</value>
   </data>
   <data name="NavigationClientProperties" xml:space="preserve">
-    <value>Client Properties</value>
+    <value>Client-egenskaper</value>
   </data>
   <data name="NavigationClients" xml:space="preserve">
     <value>Clients</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Client Properties</value>
+    <value>Client-egenskaper</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
-    <value>Client Properties</value>
+    <value>Client-egenskaper</value>
   </data>
   <data name="PanelTitleNew" xml:space="preserve">
-    <value>Client Property</value>
+    <value>Client-egenskap</value>
   </data>
   <data name="TableButtonRemove" xml:space="preserve">
-    <value>Delete</value>
+    <value>Slett</value>
   </data>
   <data name="TableKey" xml:space="preserve">
-    <value>Key</value>
+    <value>Key/Nøkkel</value>
   </data>
   <data name="TableValue" xml:space="preserve">
-    <value>Value</value>
+    <value>Verdi</value>
   </data>
 </root>

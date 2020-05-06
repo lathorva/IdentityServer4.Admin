@@ -136,12 +136,12 @@
     <value>Identity Resource Property</value>
   </data>
   <data name="TableButtonRemove" xml:space="preserve">
-    <value>Delete</value>
+    <value>Slett</value>
   </data>
   <data name="TableKey" xml:space="preserve">
-    <value>Key</value>
+    <value>Key/Nøkkel</value>
   </data>
   <data name="TableValue" xml:space="preserve">
-    <value>Value</value>
+    <value>Verdi</value>
   </data>
 </root>

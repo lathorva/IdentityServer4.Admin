@@ -118,42 +118,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonDelete" xml:space="preserve">
-    <value>Delete Identity Resource</value>
+    <value>Slett Identity-Resource</value>
   </data>
   <data name="ButtonManageProperties" xml:space="preserve">
-    <value>Manage Identity Resource Properties</value>
+    <value>Administerer Identity-Resource-egenskaper</value>
   </data>
   <data name="ButtonSave" xml:space="preserve">
-    <value>Save Identity Resource</value>
+    <value>Lagre Identity-Resource</value>
   </data>
   <data name="NavigationIdentityResources" xml:space="preserve">
-    <value>Identity Resources</value>
+    <value>Identity-Resources</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Identity Resource</value>
+    <value>Identity-Resource</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
-    <value>Identity Resource</value>
+    <value>Identity-Resource</value>
   </data>
   <data name="PickerItemAlreadySelectedTitle" xml:space="preserve">
-    <value>item already selected</value>
+    <value>element allerede valgt</value>
   </data>
   <data name="PickerNoItemSelectedTitle" xml:space="preserve">
-    <value>No item/s selected</value>
+    <value>Ingen elementer valgt</value>
   </data>
   <data name="PickerSearchItemPlaceholder" xml:space="preserve">
-    <value>Enter 2 and more characters</value>
+    <value>Tast inn 2 eller flere tegn</value>
   </data>
   <data name="PickerSearchResultTitle" xml:space="preserve">
-    <value>Search result: (click on the item to select)</value>
+    <value>Søkeresultat: (klikk på elementet for å velge)</value>
   </data>
   <data name="PickerSelectedItemsTitle" xml:space="preserve">
-    <value>Selected item/s: </value>
+    <value>Valgte elementer: </value>
   </data>
   <data name="PickerShowAllItemsTitle" xml:space="preserve">
-    <value>more</value>
+    <value>mer</value>
   </data>
   <data name="PickerSuggestedItemsTitle" xml:space="preserve">
-    <value>Suggested items: </value>
+    <value>Foreslåtte elementer: </value>
   </data>
 </root>

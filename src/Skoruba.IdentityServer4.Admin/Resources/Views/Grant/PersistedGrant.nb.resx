@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonDeleteAll" xml:space="preserve">
-    <value>Delete All</value>
+    <value>Slett alt</value>
   </data>
   <data name="DeleteDialogMessage" xml:space="preserve">
-    <value>Are you sure? All persisted grants for this subject will be deleted.</value>
+    <value>Er du sikker? Alt av persisted grants vil bli slettet for denne.</value>
   </data>
   <data name="DeleteDialogNo" xml:space="preserve">
-    <value>No - close</value>
+    <value>Nei, lukk</value>
   </data>
   <data name="DeleteDialogTitle" xml:space="preserve">
-    <value>Warning</value>
+    <value>Advarsel</value>
   </data>
   <data name="DeleteDialogYes" xml:space="preserve">
-    <value>Yes - delete</value>
+    <value>Ja, slett</value>
   </data>
   <data name="NavigationPersistedGrants" xml:space="preserve">
     <value>Persisted Grants</value>
@@ -145,7 +145,7 @@
     <value>Data</value>
   </data>
   <data name="TableExpiration" xml:space="preserve">
-    <value>Expiration</value>
+    <value>Utløper</value>
   </data>
   <data name="TableSubjectId" xml:space="preserve">
     <value>Subject Id</value>

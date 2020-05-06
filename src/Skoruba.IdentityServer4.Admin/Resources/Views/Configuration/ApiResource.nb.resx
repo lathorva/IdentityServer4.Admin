@@ -118,48 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonDeleteApiResource" xml:space="preserve">
-    <value>Delete Api Resource</value>
+    <value>Slett API-Resource</value>
   </data>
   <data name="ButtonManageProperties" xml:space="preserve">
-    <value>Manage Api Resource Properties</value>
+    <value>Administrer API-Resource egenskaper</value>
   </data>
   <data name="ButtonManageScopes" xml:space="preserve">
-    <value>Manage Api Scopes</value>
+    <value>Administer API-Scopes</value>
   </data>
   <data name="ButtonManageSecrets" xml:space="preserve">
-    <value>Manage Api Secrets</value>
+    <value>Administer API-Secrets</value>
   </data>
   <data name="ButtonSaveApiResource" xml:space="preserve">
-    <value>Save Api Resource</value>
+    <value>Lagre API-Resource</value>
   </data>
   <data name="NavigationApiResources" xml:space="preserve">
-    <value>Api Resources</value>
+    <value>API-Resources</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
-    <value>Api Resource</value>
+    <value>API-Resource</value>
   </data>
   <data name="PanelTitle" xml:space="preserve">
-    <value>Api Resource</value>
+    <value>API-Resource</value>
   </data>
   <data name="PickerItemAlreadySelectedTitle" xml:space="preserve">
-    <value>item already selected</value>
+    <value>element allerede valgt</value>
   </data>
   <data name="PickerNoItemSelectedTitle" xml:space="preserve">
-    <value>No item/s selected</value>
+    <value>Ingen elementer valgt</value>
   </data>
   <data name="PickerSearchItemPlaceholder" xml:space="preserve">
-    <value>Enter 2 and more characters</value>
+    <value>Tast inn 2 eller flere tegn</value>
   </data>
   <data name="PickerSearchResultTitle" xml:space="preserve">
-    <value>Search result: (click on the item to select)</value>
+    <value>Søkeresultat: (klikk på element for å velge)</value>
   </data>
   <data name="PickerSelectedItemsTitle" xml:space="preserve">
-    <value>Selected item/s: </value>
+    <value>Valgte elementer: </value>
   </data>
   <data name="PickerShowAllItemsTitle" xml:space="preserve">
     <value>more</value>
   </data>
   <data name="PickerSuggestedItemsTitle" xml:space="preserve">
-    <value>Suggested items: </value>
+    <value>Foreslåtte elementer: </value>
   </data>
 </root>

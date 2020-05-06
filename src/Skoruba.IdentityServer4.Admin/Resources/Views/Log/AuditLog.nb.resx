@@ -142,7 +142,7 @@
     <value>Event</value>
   </data>
   <data name="No - close" xml:space="preserve">
-    <value>No - close</value>
+    <value>Nei - lukk</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>Søk</value>
@@ -151,7 +151,7 @@
     <value>Vis detaljer</value>
   </data>
   <data name="Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Kilde</value>
   </data>
   <data name="Subject" xml:space="preserve">
     <value>Subject</value>
