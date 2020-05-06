@@ -121,8 +121,7 @@
     <value>E-post</value>
   </data>
   <data name="Info" xml:space="preserve">
-    <value>Du har autentisert med {0}.
-         Skriv inn din e-postadresse for dette nettstedet nedenfor og klikk på "Registrer"-knappen for å fullføre innloggingen.</value>
+    <value>Du har logget inn med {0}. Skriv inn din e-postadresse for dette nettstedet nedenfor og klikk på "Registrer"-knappen for å fullføre innloggingen.</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Registrer</value>
