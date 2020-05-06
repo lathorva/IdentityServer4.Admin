@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="2FA" xml:space="preserve">
-    <value>Two-factor authentication</value>
+    <value>To-faktor autentisering</value>
   </data>
   <data name="ChangePassword" xml:space="preserve">
-    <value>Change password</value>
+    <value>Endre passord</value>
   </data>
   <data name="ExternalLogins" xml:space="preserve">
-    <value>My external logins</value>
+    <value>Mine 3.part-innlogginger</value>
   </data>
   <data name="FooterCopyright" xml:space="preserve">
     <value>©</value>
@@ -133,18 +133,18 @@
     <value>Grants</value>
   </data>
   <data name="ManagePersonalData" xml:space="preserve">
-    <value>My personal data</value>
+    <value>Min personlige data</value>
   </data>
   <data name="ManageProfile" xml:space="preserve">
-    <value>My profile</value>
+    <value>Min profil</value>
   </data>
   <data name="Menu" xml:space="preserve">
-    <value>Menu</value>
+    <value>Meny</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Innstillinger</value>
   </data>
   <data name="Signout" xml:space="preserve">
-    <value>logout</value>
+    <value>logg ut</value>
   </data>
 </root>

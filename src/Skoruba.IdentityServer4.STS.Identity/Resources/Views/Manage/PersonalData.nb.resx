@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Slett</value>
   </data>
   <data name="Download" xml:space="preserve">
-    <value>Download</value>
+    <value>Last ned</value>
   </data>
   <data name="Info" xml:space="preserve">
-    <value>Your account contains personal data that you have given us. This page allows you to download or delete that data.</value>
+    <value>Din konto inneholder personlig data som du har gitt oss. Denne side lar deg laste ned eller slette disse dataene.</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Personal Data</value>
+    <value>Personlig data</value>
   </data>
   <data name="Warning" xml:space="preserve">
-    <value>Deleting this data will permanently remove your account, and this cannot be recovered.</value>
+    <value>Sletting av denne data vil permanent fjerne din konto. Dette kan ikke gjennopprettes.</value>
   </data>
 </root>

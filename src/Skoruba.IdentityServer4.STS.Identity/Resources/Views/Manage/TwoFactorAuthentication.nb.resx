@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddAuthenticator" xml:space="preserve">
-    <value>Add authenticator app</value>
+    <value>Legg til en autentiseringsapp</value>
   </data>
   <data name="AuthenticatorApp" xml:space="preserve">
-    <value>Authenticator app</value>
+    <value>Autentiseringsapp</value>
   </data>
   <data name="BeforeLogin" xml:space="preserve">
-    <value>before you can log in with a recovery code</value>
+    <value>før du kan logge på med en gjenopprettingskode</value>
   </data>
   <data name="Disable2FA" xml:space="preserve">
-    <value>Disable 2FA</value>
+    <value>Deaktiver to-faktor autentisering</value>
   </data>
   <data name="ForgetBrowser" xml:space="preserve">
-    <value>Forget this browser</value>
+    <value>Glem denne nettleseren</value>
   </data>
   <data name="GenerateNewCodes" xml:space="preserve">
-    <value>generate a new set of recovery codes</value>
+    <value>genererer et nytt sett med gjenopprettingskoder</value>
   </data>
   <data name="NoCodes" xml:space="preserve">
-    <value>You have no recovery codes left</value>
+    <value>Du har ingen gjenopprettingskoder igjen</value>
   </data>
   <data name="OneCode" xml:space="preserve">
-    <value>You have 1 recovery code left</value>
+    <value>Du har 1 gjenopprettingskode igjen</value>
   </data>
   <data name="RecoveryCodeLeft" xml:space="preserve">
-    <value>recovery codes left</value>
+    <value>gjenopprettingskoder igjen</value>
   </data>
   <data name="ResetAuthenticator" xml:space="preserve">
-    <value>Reset authenticator app</value>
+    <value>Tilbakestill autentiseringsapp</value>
   </data>
   <data name="ResetCodes" xml:space="preserve">
-    <value>Reset recovery codes</value>
+    <value>Tilbakestill gjenopprettingskoder</value>
   </data>
   <data name="SetupAuthenticator" xml:space="preserve">
-    <value>Setup authenticator app</value>
+    <value>Sett opp autentiseringsapp</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Two-factor authentication (2FA)</value>
+    <value>To-faktor autentisering (2FA)</value>
   </data>
   <data name="YouCanGenerateCodes" xml:space="preserve">
-    <value>You can generate a new set of recovery codes</value>
+    <value>Du kan generere et nytt sett med gjenopprettingskoder</value>
   </data>
   <data name="YouHave" xml:space="preserve">
-    <value>You have</value>
+    <value>Du har</value>
   </data>
   <data name="YouMust" xml:space="preserve">
-    <value>You must</value>
+    <value>Du må</value>
   </data>
   <data name="YouShould" xml:space="preserve">
-    <value>You should</value>
+    <value>Du burde</value>
   </data>
 </root>
